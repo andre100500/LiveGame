@@ -1,0 +1,15 @@
+C:\Users\Andrew\source\repos\Live\Live\bin\Debug\Live.exe.config
+C:\Users\Andrew\source\repos\Live\Live\bin\Debug\Live.exe
+C:\Users\Andrew\source\repos\Live\Live\bin\Debug\Live.pdb
+C:\Users\Andrew\source\repos\Live\Live\obj\Debug\Live.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\Live\Live\obj\Debug\MainWindow.g.cs
+C:\Users\Andrew\source\repos\Live\Live\obj\Debug\App.g.cs
+C:\Users\Andrew\source\repos\Live\Live\obj\Debug\Live_MarkupCompile.cache
+C:\Users\Andrew\source\repos\Live\Live\obj\Debug\Live_MarkupCompile.lref
+C:\Users\Andrew\source\repos\Live\Live\obj\Debug\MainWindow.baml
+C:\Users\Andrew\source\repos\Live\Live\obj\Debug\Live.g.resources
+C:\Users\Andrew\source\repos\Live\Live\obj\Debug\Live.Properties.Resources.resources
+C:\Users\Andrew\source\repos\Live\Live\obj\Debug\Live.csproj.GenerateResource.cache
+C:\Users\Andrew\source\repos\Live\Live\obj\Debug\Live.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\Live\Live\obj\Debug\Live.exe
+C:\Users\Andrew\source\repos\Live\Live\obj\Debug\Live.pdb
